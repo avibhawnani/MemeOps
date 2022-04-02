@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361689580013",
+    "firebase_url": "https://memesis-18f01-default-rtdb.firebaseio.com",
+    "project_id": "memesis-18f01",
+    "storage_bucket": "memesis-18f01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361689580013:android:48bed647cb3949a14c27e4",
+        "android_client_info": {
+          "package_name": "application.meme.memesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361689580013-r98ultm42nil9l2pp85c4d88g6lj4jvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "application.meme.memesis",
+            "certificate_hash": "b94b36f2f15f39b74a47f0f4628cb2ec67492a54"
+          }
+        },
+        {
+          "client_id": "361689580013-vubopj9fp72at8na7abma6elqh14raan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbIZ_kMHQoCKbrr8JSIN-7JgznHhBwkE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361689580013-vubopj9fp72at8na7abma6elqh14raan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
